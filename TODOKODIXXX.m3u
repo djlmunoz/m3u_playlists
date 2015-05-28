@@ -1,0 +1,350 @@
+﻿#EXTM3U
+
+
+#EXTINF:-1, Русская ночь
+
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIANNIGHT/variant.m3u8?version=2
+
+
+#EXTINF:0, BLUE HUSTLER
+
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
+
+#EXTINF:0, Asia XXX1
+
+http://59.120.43.181:8081
+
+#EXTINF:0, Asia XXX2
+
+http://59.120.43.181:8082
+
+#EXTINF:0, Asia XXX3
+
+http://59.120.43.181:8083
+
+#EXTINF:0, Asia XXX4
+
+http://59.120.43.181:8084
+
+
+#EXTINF:-1,Babestation2 
+http://publish.thewebstream.co:1935/cellcast/encoder72/playlist.m3u8
+#EXTINF:-1,Babestation3 
+http://publish.thewebstream.co:1935/cellcast/encoder31/playlist.m3u8
+
+#EXTINF:-1,Babestation5 
+http://publish.thewebstream.co:1935/cellcast/nakedchat2/chunklist.m3u8
+#EXTINF:-1,Babestation6 
+http://publish.thewebstream.co:1935/cellcast/nakedchat/chunklist.m3u8
+
+#EXTINF:-1,Babestation8 
+http://publish.thewebstream.co:1935/cellcast/encoder22/playlist.m3u8
+#EXTINF:-1,Babestation9 
+http://178.33.126.213:1935/iptv_cellcast_24/livestream1/chunklist.m3u8
+#EXTINF:-1,Babestation10 
+http://178.33.126.213:1935/iptv_cellcast_24/livestream_two2/chunklist.m3u8
+
+#EXTINF:-1,Babestation13 
+http://178.33.229.131:1935/thaichat/mpegts3.stream/chunklist.m3u8
+
+#EXTINF:-1,XXL Porn TV
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_XXL/variant.m3u8?version=2 
+
+
+
+
+#EXTINF:-1,Jasmin
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
+
+#EXTINF:-1,SATISFACTION HD
+rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/pld499
+
+#EXTINF:-1,Passiexxx
+http://publish.thewebstream.co:1935/leved/_definst_/passiexxx/playlist.m3u8
+
+#EXTINF:-1,Wepa
+http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/media-b1100000_2398.m3u8
+
+#EXTINF:-1,Wepa 2
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/media-b1100000_2400.m3u8
+
+#EXTINF:-1, XXX Asia 1
+http://59.120.43.181:8081
+
+
+#EXTINF:-1,XXX Asia 3
+http://59.120.43.181:8083
+
+#EXTINF:-1,XXX Asia 4
+http://59.120.43.181:8084
+
+
+#EXTINF:-1, Olala
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_OLALA/variant.m3u8?version=2
+ 
+#EXTINF:-1, Russian Night
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIANNIGHT/variant.m3u8?version=2
+
+#EXTINF:0,ADULT TV 1
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
+ 
+#EXTINF:-1, Blue Hustler
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
+
+#EXTINF:0,PLAY BOY TV
+http://46.61.226.21/hls/CH_PLAYBOY/variant.m3u8?version=2
+ 
+#EXTINF:-1, Playboy TV
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_PLAYBOY/variant.m3u8?version=2
+ 
+#EXTINF:-1, XXL
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_XXL/variant.m3u8?version=2
+
+#EXTINF:-1,Adult:CS Sex +18 ADULT mmsh
+mmsh://tv.webmisto.cz:7000
+
+#EXTINF:-1,BABE_XXX
+http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
+
+#EXTINF:-1,Adult:Babestation
+http://46.105.116.159:1935/cellcast/encoder22/.m3u8
+
+#EXTINF:-1,Adult:Babestation Blue
+http://178.33.126.213:1935/cellcast/encoder32/.m3u8
+
+#EXTINF:-1,Adult:Babestation Unleashed
+http://46.105.116.159:1935/iptv_cellcast_24/livestream_three2/.m3u8
+
+#EXTINF:-1,Adult:Babestation Xtra
+http://46.105.116.159:1935/cellcast/encoder72/.m3u8
+
+#EXTINF:-1,Adult:Bella Club
+rtsp://46.249.213.87/broadcast/bellaluz-tablet.3gp
+
+
+#EXTINF:-1, tvg-logo="18%2B.jpg" tvg-logo="http://iptvjonas.cf/18%2B.jpg" group-title="Adultos",Adulto Claro
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="18%2B.jpg" tvg-logo="http://iptvjonas.cf/18%2B.jpg" group-title="Adultos",ADULTO C H A N N E L
+http://83.139.104.98/Content/HLS/Live/Channel(ADULT_CHANNEL)/Stream(03)/index.m3u8
+
+#EXTINF:-1, tvg-logo="18%2B.jpg" tvg-logo="http://iptvjonas.cf/18%2B.jpg" group-title="Adultos",Adulto Premium Claro
+http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="18%2B.jpg" tvg-logo="http://iptvjonas.cf/18%2B.jpg" group-title="Adultos",Bella Club 
+rtsp://46.249.213.87/broadcast/bellaluz-tablet.3gp
+
+#EXTINF:-1, tvg-logo="18%2B.jpg" tvg-logo="http://iptvjonas.cf/18%2B.jpg" group-title="Adultos",Bollywood Bikini TV
+http://46.249.213.93/iPhone/broadcast/bollywoodbikini-tablet.3gp/bollywoodbikini-tablet.3gp-mr647k.m3u8
+
+#EXTINF:-1, tvg-logo="18%2B.jpg" tvg-logo="http://iptvjonas.cf/18%2B.jpg" group-title="Adultos",Brasileirinhas
+rtmp://62.210.89.54:8082/brasileirinhas/brasileirinhas/ playpath=brasileirinhas swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf pageUrl=http://livestreamcast.org/embeds.php?c=Brasileirinhas&vw=468&vh=360 live=1
+#EXTINF:-1, tvg-logo="18%2B.jpg" tvg-logo="http://iptvjonas.cf/18%2B.jpg" group-title="Adultos",Brazzers tv
+
+#EXTINF:-1, tvg-logo="18%2B.jpg" tvg-logo="http://iptvjonas.cf/18%2B.jpg" group-title="Adultos",CS Sex +18 ADULT mmsh
+mmsh://tv.webmisto.cz:7000
+
+#EXTINF:-1, tvg-logo="18%2B.jpg" tvg-logo="http://iptvjonas.cf/18%2B.jpg" group-title="Adultos",DLDVS 1
+http://208.122.3.2:9000
+#EXTINF:-1, tvg-logo="18%2B.jpg" tvg-logo="http://iptvjonas.cf/18%2B.jpg" group-title="Adultos",DLDVS 2
+http://208.122.3.2:8700
+
+#EXTINF:-1, tvg-logo="18%2B.jpg" tvg-logo="http://iptvjonas.cf/18%2B.jpg" group-title="Adultos",DORCEL TV
+rtmp://212.83.171.82:1935/live/1017
+
+#EXTINF:-1, tvg-logo="18%2B.jpg" tvg-logo="http://iptvjonas.cf/18%2B.jpg" group-title="Adultos",DORCEL TV [COLOR limegreen] FULLHD [/COLOR]
+
+#EXTINF:-1, tvg-logo="18%2B.jpg" tvg-logo="http://iptvjonas.cf/18%2B.jpg" group-title="Adultos", Hot Clips
+rtmp://extondemand.livestream.com:80/ondemand playpath=trans/dv15/mogulus-user-files/chhotceleb/2013/11/23/59825737-e5aa-43f7-a007-c109e430f496 swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?color=0x000000&autoPlay=true&iconColor=0xcccccc&mute=false&jsEnabled=false&iconColorOver=0xe7e7e7 pageUrl=http://tvtoss.com/channel-frames/Hot Clips 18  TV/hotclips_server-1.php
+
+#EXTINF:-1, tvg-logo="18%2B.jpg" tvg-logo="http://iptvjonas.cf/18%2B.jpg" group-title="Adultos",PLAYBOY T V
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_PLAYBOY/variant.m3u8
+#EXTINF:-1 tvg-logo="18%2B.jpg" tvg-logo="http://iptvjonas.cf/18%2B.jpg" group-title="Adultos",Playboy TV USA
+rtmp://37.130.228.4:8082/pboytv/pboytv/ playpath=pboytv swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf pageUrl=http://www.tvonlinegratis.tv/canais/playboytv.php live=1
+
+#EXTINF:-1, tvg-logo="18%2B.jpg" tvg-logo="http://iptvjonas.cf/18%2B.jpg" group-title="Adultos",Power Girls TV [COLOR limegreen]HD [/COLOR]
+http://46.249.213.93/iPhone/broadcast/powergirls-tablet.3gp/powergirls-tablet.3gp-mr648k.m3u8
+
+#EXTINF:-1, tvg-logo="18%2B.jpg" tvg-logo="http://iptvjonas.cf/18%2B.jpg" group-title="Adultos",SCT
+
+#EXTINF:-1, tvg-logo="18%2B.jpg" tvg-logo="http://iptvjonas.cf/18%2B.jpg" group-title="Adultos",,Sexy Sat
+rtmp://81.89.48.215/xyz999wkz/sexysat.stream_360p
+
+#EXTINF:-1, tvg-logo="18%2B.jpg" tvg-logo="http://iptvjonas.cf/18%2B.jpg" group-title="Adultos",VENUS TV
+
+#EXTINF:-1, tvg-logo="18%2B.jpg" tvg-logo="http://iptvjonas.cf/18%2B.jpg" group-title="Adultos",Visit-X TV
+rtmp://194.116.150.47/live//visitx.stream1
+
+#EXTINF:-1, tvg-logo="18%2B.jpg" tvg-logo="http://iptvjonas.cf/18%2B.jpg" group-title="Adultos",XXX
+
+#EXTINF:-1,XXL Porn IPTV 
+http://a7-60.5-69.cdn13.com/28000/28013/28013.flv?
+#EXTINF:-1, XXL
+http://a7-60.5-69.cdn13.com/28000/28014/28014.flv?
+#EXTINF:-1, XXL
+http://a7-60.5-69.cdn13.com/28000/28015/28015.flv?
+#EXTINF:-1, XXL
+http://a7-60.5-69.cdn13.com/28000/28016/28016.flv?
+#EXTINF:-1, XXL
+http://a7-60.5-69.cdn13.com/28000/28017/28017.flv?
+#EXTINF:-1, XXL
+http://a7-60.5-69.cdn13.com/28000/28018/28018.flv?
+#EXTINF:-1, XXL
+http://a7-60.5-69.cdn13.com/28000/28019/28019.flv?
+#EXTINF:-1, XXL
+http://a7-60.5-69.cdn13.com/28000/28020/28020.flv?
+#EXTINF:-1, XXL
+http://a7-60.5-69.cdn13.com/28000/28021/28021.flv?
+http://188.165.239.200:7024
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",P.boy TV
+http://46.61.226.19/hls/CH_PLAYBOY/bw1500000/variant.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",XXL
+http://46.61.226.19/hls/CH_XXL/bw1500000/variant.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",Blue Hustler
+ http://46.61.226.19/hls/CH_BLUEHUSTLER/bw1500000/variant.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",RUSSIANNIGHT 
+http://46.61.226.19/hls/CH_RUSSIANNIGHT/bw1500000/variant.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",O-la-la
+http://46.61.226.19/hls/CH_OLALA/bw1500000/variant.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",Hustler HD (buffer)
+http://185.38.12.20:8088/hustler_hd/
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",Jasmin
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",Station
+http://178.33.126.213:1935/iptv_cellcast_24/livestream1/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",Score Group
+http://188.165.220.116:8081/live/20/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",SATISFACTION HD
+rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/pld499
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",Brasileirinhas
+http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",LiveSex Latinas
+http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",Frenchlover
+http://95.170.186.178:7781/udp/239.255.4.4:1234
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",Passiexxx
+http://publish.thewebstream.co:1935/leved/_definst_/passiexxx/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",Wepa
+http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/media-b1100000_2398.m3u8
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",Wepa 2
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/media-b1100000_2400.m3u8
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",Private
+http://185.38.12.20:8088/private/
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",ttv11 china
+rtmp://kv3.ts33.net/tv/ttv11
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",ttv12 china
+rtmp://149.3.141.210:1935/tv/ttv12
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18", XXX Asia 1
+http://59.120.43.181:8081
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18", XXX Asia 2
+http://59.120.43.181:8082
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",XXX Asia 3
+http://59.120.43.181:8083
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",XXX Asia 4
+http://59.120.43.181:8084
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",XXX Asia 5
+http://59.120.43.181:8085
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",XXX Asia 6
+http://59.120.43.181:8086
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",XXX Asia 7
+http://59.120.43.181:8087
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",Power Girls TV HD
+http://46.249.213.93/iPhone/broadcast/powergirls-tablet.3gp/powergirls-tablet.3gp-mr648k.m3u8
+ 
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",Bollywood Bikini TV
+http://46.249.213.93/iPhone/broadcast/bollywoodbikini-tablet.3gp/bollywoodbikini-tablet.3gp-mr647k.m3u8
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18", Olala
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_OLALA/variant.m3u8?version=2
+ 
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18", Russian Night
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIANNIGHT/variant.m3u8?version=2
+
+#EXTINF:0 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",ADULT TV 1
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18", Blue Hustler
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
+
+#EXTINF:0 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",PLAY BOY TV
+http://46.61.226.21/hls/CH_PLAYBOY/variant.m3u8?version=2
+ 
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18", Playboy TV
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_PLAYBOY/variant.m3u8?version=2
+ 
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18", XXL
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_XXL/variant.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",Adult:CS Sex +18 ADULT mmsh
+mmsh://tv.webmisto.cz:7000
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",BABE_XXX
+http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",Adult:Babestation
+http://46.105.116.159:1935/cellcast/encoder22/.m3u8
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",Adult:Babestation Blue
+http://178.33.126.213:1935/cellcast/encoder32/.m3u8
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",Adult:Babestation Unleashed
+http://46.105.116.159:1935/iptv_cellcast_24/livestream_three2/.m3u8
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",Adult:Babestation Xtra
+http://46.105.116.159:1935/cellcast/encoder72/.m3u8
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",Adult:Bella Club
+
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",XXX-VOD European 46
+http://www.hdtubes.net/get_file/18/715bddc9fd1026616ff1d95720d60d22/7000/7733/7733.mp4
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",XXX-VOD European 47
+http://www.hdtubes.net/get_file/20/319c1ee88d3ac2ea60340fa3f2c28606/5000/5165/5165.mp4
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",XXX-VOD European 48
+http://www.hdtubes.net/get_file/8/72a0ab10d1d6c10e82ccfbe1d84f5d53/5000/5186/5186.mp4
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",XXX-VOD European 49
+http://www.hdtubes.net/get_file/14/ac3127f4a783891f4ee8c492c5fae2f6/7000/7537/7537.mp4
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",XXX-VOD European 50
+http://www.hdtubes.net/get_file/6/8d970403b1bda9f4b538f5b684ec0b36/7000/7540/7540.mp4
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",XXX-VOD European 28
+http://www.hdtubes.net/get_file/24/6fd9bb140d79f87e33ecc9727b8f1b04/7000/7939/7939.mp4
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",XXX-VOD European 29
+http://www.hdtubes.net/get_file/7/e22ff24188aa9bbbbc8d89663ebf7935/7000/7617/7617.mp4
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",XXX-VOD European 30
+http://www.hdtubes.net/get_file/22/b08c4434080a9c8773160c90cca967d5/7000/7965/7965.mp4
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",XXX-VOD European 31
+http://www.hdtubes.net/get_file/14/f81d40a4fe0c994d792759cabd69491c/7000/7660/7660.mp4
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",XXX-VOD European 32
+http://www.hdtubes.net/get_file/5/d9f2edb57c7dc8c26b557203b442f7fd/5000/5277/5277.mp4
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",XXX-VOD European 33
+http://www.hdtubes.net/get_file/11/935a2edca33985bf984fec79a471a32f/7000/7739/7739.mp4
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",XXX-VOD European 34
+http://www.hdtubes.net/get_file/19/386914e0d17bdf734fc6c0564ba57403/5000/5181/5181.mp4
+#EXTINF:-1 tvg-logo="18.jpg" tvg-logo="http://douglasduffor.com.br/18.jpg" group-title="Adultos +18",XXX-VOD European 35
+http://www.hdtubes.net/get_file/12/66154657a01aca1094228e0204f7b659/5000/5959/5959.mp4
